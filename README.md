@@ -1,2 +1,0 @@
-# TypeformIntegration
-Created with CodeSandbox
